@@ -3,10 +3,26 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0ea068-1bef-439f-ba50-12506ed9ff7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/muzApp/app/src/main/java/com/example/muzapp/Pass2" afterDir="false" />
-    </list>
+    <list default="true" id="cd0ea068-1bef-439f-ba50-12506ed9ff7f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,5 +62,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="341" width="680" height="438" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625554965111">
+      <screen x="76" y="34" width="1844" height="1046" />
+    </state>
+    <state x="653" y="341" width="680" height="438" key="#com.intellij.fileTypes.FileTypeChooser/76.34.1844.1046@76.34.1844.1046" timestamp="1625554965111" />
   </component>
 </project>
