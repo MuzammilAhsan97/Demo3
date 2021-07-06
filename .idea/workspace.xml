@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd0ea068-1bef-439f-ba50-12506ed9ff7f" name="Default Changelist" comment="" />
+    <list default="true" id="cd0ea068-1bef-439f-ba50-12506ed9ff7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/muzApp/app/src/main/java/com/example/muzapp/Pass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
